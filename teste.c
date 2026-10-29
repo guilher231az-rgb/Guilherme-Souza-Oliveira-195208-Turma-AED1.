@@ -4,7 +4,7 @@
 Disciplina : Algortimo e Estrutura de Dados 2026S1
 Nome       : <<<Guilherme Souza Oliveira>>>
 Linguagem  : C
-Problema   : https://judge.beecrowd.com/pt/problems/view/<<<numeroDoProblema>>>
+Problema   : https://judge.beecrowd.com/pt/problems/view/<<<1080>>>
 Data       : 29/10/2026
 Objetivo   : Ler cem valores inteiros, mostrar o maior entre eles e a sua posição.
 Dificuldade: <<< criar a condicao dentro do laço de repeticao para atualizar o maior valor >>>
